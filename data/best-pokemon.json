@@ -1,0 +1,320 @@
+{
+  "title": "PokéSurvivor best Pokémon — community picks",
+  "asOf": "2026-10-16",
+  "gameVersion": {
+    "commit": "c31715d",
+    "date": "2026-10-14"
+  },
+  "status": "community picks, not an official ranking; version-sensitive",
+  "picks": [
+    {
+      "id": "mewtwo",
+      "name": "Mewtwo",
+      "dex": 150,
+      "types": [
+        "psychic"
+      ],
+      "legendary": true,
+      "mentions": 5,
+      "consensus": "strong",
+      "summary": "The Pokémon players call the strongest most often. Posts on X say it is close to unkillable by minute 20 and that players had settled on it as the best pick within a day of launch, and one player asks whether anything beats it. A Chinese video’s title calls it super strong with Swords Dance and Harden, and a Spanish strategy video says no Pokémon tops it.",
+      "caveat": "Not everyone agrees: a community-made stat chart puts it only in its A tier (31st to 120th of 966), while a guide site’s stat ranking has it in S. Psychic moves were weakened on October 11, 2026; most of the praise came after that, but the next balance change could move it.",
+      "alternatives": {
+        "note": "A guide thread on X rates a fully upgraded Mewtwo best and suggests these if you don’t have one:",
+        "pokemon": [
+          {
+            "id": "jirachi",
+            "name": "Jirachi",
+            "dex": 385,
+            "types": [
+              "steel",
+              "psychic"
+            ],
+            "legendary": true
+          },
+          {
+            "id": "metagross",
+            "name": "Metagross",
+            "dex": 376,
+            "types": [
+              "steel",
+              "psychic"
+            ],
+            "legendary": false
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "X4",
+          "kind": "x",
+          "title": "Post on X",
+          "url": "https://x.com/zweiino/status/2110581531551113465",
+          "date": "2026-10-15"
+        },
+        {
+          "id": "X5",
+          "kind": "x",
+          "title": "Post on X",
+          "url": "https://x.com/alesc__/status/2109647246686109785",
+          "date": "2026-10-12"
+        },
+        {
+          "id": "X6a",
+          "kind": "x",
+          "title": "Post on X (1 of 2 by one player)",
+          "url": "https://x.com/Areni0_/status/2109745455382818904",
+          "date": "2026-10-12"
+        },
+        {
+          "id": "X6b",
+          "kind": "x",
+          "title": "Post on X (2 of 2 by one player)",
+          "url": "https://x.com/Areni0_/status/2109630513988149681",
+          "date": "2026-10-12"
+        },
+        {
+          "id": "Y4",
+          "kind": "youtube",
+          "title": "PFY玩給你看’s Mewtwo video",
+          "language": "Chinese",
+          "url": "https://www.youtube.com/watch?v=dVc11A2zvtc",
+          "date": "2026-10-14"
+        },
+        {
+          "id": "Y2",
+          "kind": "youtube",
+          "title": "Mefisto Dango’s strategy guide",
+          "language": "Spanish",
+          "url": "https://www.youtube.com/watch?v=hg81tseMYXU",
+          "date": "2026-10-12"
+        },
+        {
+          "id": "X1",
+          "kind": "x",
+          "title": "Build guide thread",
+          "language": "Spanish",
+          "url": "https://x.com/Maurosueloser/status/2109976399637307747",
+          "date": "2026-10-13"
+        },
+        {
+          "id": "T1",
+          "kind": "community-chart",
+          "title": "Community-made stat chart of all 966 Pokémon, game build a9b21f0",
+          "url": null,
+          "date": "2026-10-13"
+        },
+        {
+          "id": "G5",
+          "kind": "guide-site",
+          "title": "A guide site’s stat ranking of all 966 Pokémon",
+          "url": null,
+          "date": null
+        },
+        {
+          "id": "S3",
+          "kind": "github",
+          "title": "Game changelog",
+          "url": "https://github.com/JPTER78/pokesurvivor",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    {
+      "id": "gengar",
+      "name": "Gengar",
+      "dex": 94,
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "legendary": false,
+      "mentions": 3,
+      "consensus": "moderate",
+      "summary": "Three videos single it out: a Spanish creator ranks it second in a top-five list, another video’s title calls its Gengar build very strong, and a third has a “top 3” segment on Gengar.",
+      "caveat": "We only had the titles and chapter names of two of these videos, so their reasons aren’t covered here.",
+      "sources": [
+        {
+          "id": "Y1",
+          "kind": "youtube",
+          "title": "Mefisto Dango’s top 5",
+          "language": "Spanish",
+          "url": "https://www.youtube.com/watch?v=Ys5izmOyPHs",
+          "date": "2026-10-14"
+        },
+        {
+          "id": "Y5",
+          "kind": "youtube",
+          "title": "ShirosamaGames’ Gengar build",
+          "url": "https://www.youtube.com/watch?v=awKVzmogbfQ",
+          "date": "2026-10-14"
+        },
+        {
+          "id": "Y6",
+          "kind": "youtube",
+          "title": "KNekroGamer’s video with a Gengar top 3",
+          "url": "https://www.youtube.com/watch?v=Hn1N7KO6HhI",
+          "date": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "lucario",
+      "name": "Lucario",
+      "dex": 448,
+      "types": [
+        "fighting",
+        "steel"
+      ],
+      "legendary": false,
+      "mentions": 2,
+      "consensus": "moderate",
+      "summary": "An Italian creator uses Lucario for S-rank runs, with a build that binds its moves into two Bonds, and the community-made stat chart ranks it 9th of all 966 Pokémon, well above Mewtwo.",
+      "caveat": "One of the two mentions is that stat chart, and we only had the video’s title, description and chapters.",
+      "sources": [
+        {
+          "id": "Y3",
+          "kind": "youtube",
+          "title": "PolyMAVod’s tier list video",
+          "language": "Italian",
+          "url": "https://www.youtube.com/watch?v=M5biNLZgsgc",
+          "date": "2026-10-15"
+        },
+        {
+          "id": "T1",
+          "kind": "community-chart",
+          "title": "Community-made stat chart of all 966 Pokémon, game build a9b21f0",
+          "url": null,
+          "date": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "tentacruel",
+      "name": "Tentacruel",
+      "dex": 73,
+      "types": [
+        "water",
+        "poison"
+      ],
+      "legendary": false,
+      "mentions": 1,
+      "consensus": "single source",
+      "summary": "One Spanish creator ranks Tentacruel first: its poison keeps damaging enemies over time, and Shell Bell turns that damage into healing.",
+      "caveat": "That’s a single source, and the community-made stat chart only puts it in B. Its case is poison and healing rather than raw stats: its atk is the lowest of these four picks.",
+      "sources": [
+        {
+          "id": "Y1",
+          "kind": "youtube",
+          "title": "Mefisto Dango’s top 5",
+          "language": "Spanish",
+          "url": "https://www.youtube.com/watch?v=Ys5izmOyPHs",
+          "date": "2026-10-14"
+        },
+        {
+          "id": "T1",
+          "kind": "community-chart",
+          "title": "Community-made stat chart of all 966 Pokémon, game build a9b21f0",
+          "url": null,
+          "date": "2026-10-13"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "arceus",
+      "heading": "Arceus Is Underwhelming as a Partner",
+      "name": "Arceus",
+      "dex": 493,
+      "types": [
+        "normal"
+      ],
+      "legendary": true,
+      "mentions": 2,
+      "consensus": "moderate",
+      "summary": "A player on X expected Arceus to be the strongest partner and found it far behind, and a Spanish strategy video notes that its moves are mostly physical tackles, despite the highest bst on this page.",
+      "sources": [
+        {
+          "id": "X7",
+          "kind": "x",
+          "title": "Post on X",
+          "url": "https://x.com/ThemessengerD/status/2110196145196540345",
+          "date": "2026-10-14"
+        },
+        {
+          "id": "Y2",
+          "kind": "youtube",
+          "title": "Mefisto Dango’s strategy guide",
+          "language": "Spanish",
+          "url": "https://www.youtube.com/watch?v=hg81tseMYXU",
+          "date": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "legendaries",
+      "heading": "Legendaries Aren’t Automatically Best",
+      "mentions": 3,
+      "consensus": "moderate",
+      "summary": "A player on X finds a 4-star (epic) Pokémon easier to play than legendaries, another was let down by Arceus, and a creator’s top five has no legendary at all. Mewtwo is the exception players name most.",
+      "sources": [
+        {
+          "id": "X6a",
+          "kind": "x",
+          "title": "Post on X (1 of 2 by one player)",
+          "url": "https://x.com/Areni0_/status/2109745455382818904",
+          "date": "2026-10-12"
+        },
+        {
+          "id": "X6b",
+          "kind": "x",
+          "title": "Post on X (2 of 2 by one player)",
+          "url": "https://x.com/Areni0_/status/2109630513988149681",
+          "date": "2026-10-12"
+        },
+        {
+          "id": "X7",
+          "kind": "x",
+          "title": "Post on X",
+          "url": "https://x.com/ThemessengerD/status/2110196145196540345",
+          "date": "2026-10-14"
+        },
+        {
+          "id": "Y1",
+          "kind": "youtube",
+          "title": "Mefisto Dango’s top 5",
+          "language": "Spanish",
+          "url": "https://www.youtube.com/watch?v=Ys5izmOyPHs",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    {
+      "id": "rayquaza",
+      "heading": "Rayquaza Is Awkward to Use",
+      "name": "Rayquaza",
+      "dex": 384,
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "legendary": true,
+      "mentions": 1,
+      "consensus": "single source",
+      "summary": "One creator finds Rayquaza hard to use: its large hitbox and weak Flying and Dragon moves hold it back, even with 1.52 atk.",
+      "sources": [
+        {
+          "id": "Y1",
+          "kind": "youtube",
+          "title": "Mefisto Dango’s top 5",
+          "language": "Spanish",
+          "url": "https://www.youtube.com/watch?v=Ys5izmOyPHs",
+          "date": "2026-10-14"
+        }
+      ]
+    }
+  ],
+  "page": "https://pokesurvivortierlist.com/best-pokemon/",
+  "license": "CC-BY-4.0"
+}
